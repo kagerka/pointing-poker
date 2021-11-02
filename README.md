@@ -16,8 +16,8 @@ Planning poker, also called Scrum poker, is a consensus-based, gamified techniqu
 
 ## Links:
 
- - Deploy: *in progress*
- - Video review: *in progress*
+ - Deploy: https://pointing-poker-react-team-task.netlify.app/
+ - Video review: https://youtu.be/yAlEtbUb5Mk
 
 
  [kagerka]: https://github.com/kagerka
